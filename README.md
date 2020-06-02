@@ -1,2 +1,2 @@
 # Buy-me-a-Lamborghini
-React | Stripe
+React | Stripe (front end)
